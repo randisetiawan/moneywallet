@@ -20,155 +20,155 @@
 <resources>
     <string name="app_name">MoneyWallet</string>
 
-    <string name="menu_transaction">"Transactions"</string>
-    <string name="menu_category">"Categories"</string>
-    <string name="menu_overview">"Overview"</string>
-    <string name="menu_debt">"Debts"</string>
-    <string name="menu_budget">"Budgets"</string>
-    <string name="menu_saving">"Savings"</string>
-    <string name="menu_event">"Events"</string>
-    <string name="menu_recurrences">"Recurrences"</string>
-    <string name="menu_models">"Models"</string>
-    <string name="menu_place">"Places"</string>
-    <string name="menu_people">"People"</string>
-    <string name="menu_converter">"Converter"</string>
-    <string name="menu_calculator">"Calculator"</string>
-    <string name="menu_search_atm">"Search atm"</string>
-    <string name="menu_search_bank">"Search bank"</string>
-    <string name="menu_setting">"Settings"</string>
-    <string name="menu_support_developer">"Support developer"</string>
-    <string name="menu_about">"About"</string>
+    <string name="menu_transaction">"Transaksi"</string>
+    <string name="menu_category">"Kategori"</string>
+    <string name="menu_overview">"Ikhtisar"</string>
+    <string name="menu_debt">"Utang Piutang"</string>
+    <string name="menu_budget">"Anggaran"</string>
+    <string name="menu_saving">"Tabungan"</string>
+    <string name="menu_event">"Acara"</string>
+    <string name="menu_recurrences">"Pengulangan"</string>
+    <string name="menu_models">"Model"</string>
+    <string name="menu_place">"Tempat"</string>
+    <string name="menu_people">"Orang"</string>
+    <string name="menu_converter">"Konversi"</string>
+    <string name="menu_calculator">"Kalkulator"</string>
+    <string name="menu_search_atm">"Cari atm"</string>
+    <string name="menu_search_bank">"Cari kantor bank"</string>
+    <string name="menu_setting">"Pengaturan"</string>
+    <string name="menu_support_developer">"Dukung pengembang"</string>
+    <string name="menu_about">"tentang"</string>
 
     <!-- Transactions -->
-    <string name="menu_transaction_tab_transactions">"Transactions"</string>
-    <string name="menu_transaction_tab_transfers">"Transfers"</string>
+    <string name="menu_transaction_tab_transactions">"Transaksi"</string>
+    <string name="menu_transaction_tab_transfers">"Pemindahan"</string>
 
     <!-- Categories -->
-    <string name="menu_category_tab_income">"Incomes"</string>
-    <string name="menu_category_tab_expense">"Expenses"</string>
-    <string name="menu_category_tab_system">"System"</string>
+    <string name="menu_category_tab_income">"Pemasukan"</string>
+    <string name="menu_category_tab_expense">"Pengeluaran"</string>
+    <string name="menu_category_tab_system">"Sistem"</string>
 
     <!-- Debts -->
-    <string name="menu_debt_tab_debt">"Debt"</string>
-    <string name="menu_debt_tab_credit">"Credit"</string>
+    <string name="menu_debt_tab_debt">"Utang"</string>
+    <string name="menu_debt_tab_credit">"Piutang"</string>
 
     <!-- Budgets -->
-    <string name="menu_budget_tab_running">"Running"</string>
-    <string name="menu_budget_tab_expired">"Expired"</string>
+    <string name="menu_budget_tab_running">"Berjalan"</string>
+    <string name="menu_budget_tab_expired">"Berakhir"</string>
 
     <!-- Savings -->
-    <string name="menu_saving_tab_running">"Running"</string>
-    <string name="menu_saving_tab_completed">"Completed"</string>
+    <string name="menu_saving_tab_running">"Berjalan"</string>
+    <string name="menu_saving_tab_completed">"Selesai"</string>
 
     <!-- Events -->
-    <string name="menu_event_tab_running">"Running"</string>
-    <string name="menu_event_tab_completed">"Completed"</string>
+    <string name="menu_event_tab_running">"Berjalan"</string>
+    <string name="menu_event_tab_completed">"Selesai"</string>
 
     <!-- Models -->
-    <string name="menu_model_tab_transactions">"Transactions"</string>
-    <string name="menu_model_tab_transfers">"Transfers"</string>
+    <string name="menu_model_tab_transactions">"Transaksi"</string>
+    <string name="menu_model_tab_transfers">"Pemindahan"</string>
 
-    <string name="action_new_wallet">"New wallet"</string>
-    <string name="action_manage_wallets">"Manage wallets"</string>
-    <string name="action_pay_debt">"Pay"</string>
-    <string name="action_receive_debt">"Receive"</string>
-    <string name="action_withdraw">"Withdraw"</string>
+    <string name="action_new_wallet">"Dompet baru"</string>
+    <string name="action_manage_wallets">"Kelola dompet"</string>
+    <string name="action_pay_debt">"Bayar"</string>
+    <string name="action_receive_debt">"Terima"</string>
+    <string name="action_withdraw">"Tarik"</string>
     <string name="action_deposit">"Deposit"</string>
-    <string name="action_withdraw_everything">"Withdraw everything"</string>
-    <string name="action_add">"Add"</string>
-    <string name="action_new">"New"</string>
-    <string name="action_edit">"Edit"</string>
-    <string name="action_search">"Search"</string>
+    <string name="action_withdraw_everything">"Tarik semuanya"</string>
+    <string name="action_add">"Tambah"</string>
+    <string name="action_new">"Baru"</string>
+    <string name="action_edit">"Ubah"</string>
+    <string name="action_search">"Cari"</string>
     <string name="action_filter">"Filter"</string>
-    <string name="action_remove">"Remove"</string>
-    <string name="action_open">"Open"</string>
+    <string name="action_remove">"Hapus"</string>
+    <string name="action_open">"Buka"</string>
     <string name="action_undo">"Undo"</string>
-    <string name="action_skip">"Skip"</string>
+    <string name="action_skip">"Lewati"</string>
 
-    <string name="msg_no_wallet_found">"No wallet found"</string>
-    <string name="msg_add_one_wallet">"Please add one wallet"</string>
+    <string name="msg_no_wallet_found">"Tidak ada dompet tidak ditemukan"</string>
+    <string name="msg_add_one_wallet">"Tambahkan dompet"</string>
 
     <string name="hint_total_sum">"Total"</string>
 
-    <string name="hint_name">"Name"</string>
-    <string name="hint_description">"Description"</string>
-    <string name="hint_currency">"Currency"</string>
-    <string name="hint_money">"Money"</string>
-    <string name="hint_start_money">"Initial amount"</string>
-    <string name="hint_not_exclude_wallet">"Show this wallet in the total count"</string>
-    <string name="hint_category">"Category"</string>
-    <string name="hint_parent_category">"Parent category"</string>
-    <string name="hint_show_category_report">"Show this category inside the reports"</string>
-    <string name="hint_show_category_report_on">"This category is included inside the reports"</string>
-    <string name="hint_show_category_report_off">"This category is not included inside the reports"</string>
-    <string name="hint_confirmed">"Confirmed"</string>
-    <string name="hint_show_in_total">"Show in total wallet"</string>
-    <string name="hint_income">"Income"</string>
-    <string name="hint_expense">"Expense"</string>
-    <string name="hint_date">"Date"</string>
-    <string name="hint_start_date">"Start date"</string>
-    <string name="hint_end_date">"End date"</string>
-    <string name="hint_expiration_date">"Expiration date"</string>
-    <string name="hint_time">"Time"</string>
-    <string name="hint_wallet">"Wallet"</string>
-    <string name="hint_wallets">"Wallets"</string>
-    <string name="hint_wallet_from">"From"</string>
-    <string name="hint_wallet_to">"To"</string>
-    <string name="hint_recurrence">"Recurrence"</string>
-    <string name="hint_recurrence_invalid">"Invalid recurrence"</string>
-    <string name="hint_event">"Event"</string>
-    <string name="hint_people">"People"</string>
-    <string name="hint_place">"Place"</string>
-    <string name="hint_note">"Note"</string>
-    <string name="hint_tax">"Tax"</string>
-    <string name="hint_type">"Type"</string>
-    <string name="hint_incomes">"Incomes"</string>
-    <string name="hint_expenses">"Expenses"</string>
-    <string name="hint_net_incomes">"Net incomes"</string>
-    <string name="hint_summary">"Summary"</string>
-    <string name="hint_address">"Address"</string>
-    <string name="hint_size_unknown">"Unknown size"</string>
-    <string name="hint_address_unknown">"Unknown address"</string>
-    <string name="hint_unknown">"Unknown"</string>
-    <string name="hint_directory">"Directory"</string>
-    <string name="hint_navigate_up">"Navigate up"</string>
+    <string name="hint_name">"Nama"</string>
+    <string name="hint_description">"Deskripsi"</string>
+    <string name="hint_currency">"Mata uang"</string>
+    <string name="hint_money">"Uang"</string>
+    <string name="hint_start_money">"Jumlah awal"</string>
+    <string name="hint_not_exclude_wallet">"Tampilkan di jumlah total"</string>
+    <string name="hint_category">"Kategori"</string>
+    <string name="hint_parent_category">"Kategori induk"</string>
+    <string name="hint_show_category_report">"Tampilkan di dalam laporan keuangan"</string>
+    <string name="hint_show_category_report_on">"Kategori ini ditampilkan dalam laporan keuangan"</string>
+    <string name="hint_show_category_report_off">"Kategori ini tidak ditampilkan dalam laporan keuangan"</string>
+    <string name="hint_confirmed">"Terkonfirmasi"</string>
+    <string name="hint_show_in_total">"Tampilkan di jumlah total"</string>
+    <string name="hint_income">"Masuk"</string>
+    <string name="hint_expense">"Keluar"</string>
+    <string name="hint_date">"Tanggal"</string>
+    <string name="hint_start_date">"Tanggal dimulai"</string>
+    <string name="hint_end_date">"tanggal akhir"</string>
+    <string name="hint_expiration_date">"Tanggal kedaluwarsa"</string>
+    <string name="hint_time">"Waktu"</string>
+    <string name="hint_wallet">"Dompet"</string>
+    <string name="hint_wallets">"Dompet"</string>
+    <string name="hint_wallet_from">"Dari"</string>
+    <string name="hint_wallet_to">"ke"</string>
+    <string name="hint_recurrence">"Tagihan"</string>
+    <string name="hint_recurrence_invalid">"Tagihan tidak valid"</string>
+    <string name="hint_event">"Acara"</string>
+    <string name="hint_people">"Orang"</string>
+    <string name="hint_place">"Tempat"</string>
+    <string name="hint_note">"Catatan"</string>
+    <string name="hint_tax">"Pajak"</string>
+    <string name="hint_type">"Jenis"</string>
+    <string name="hint_incomes">"Pemasukan"</string>
+    <string name="hint_expenses">"Pengeluaran"</string>
+    <string name="hint_net_incomes">"Pendapatan bersih"</string>
+    <string name="hint_summary">"Ringkasan"</string>
+    <string name="hint_address">"Alamat"</string>
+    <string name="hint_size_unknown">"Ukuran tidak diketahui"</string>
+    <string name="hint_address_unknown">"Alamat tidak diketahui"</string>
+    <string name="hint_unknown">"Tidak diketahui"</string>
+    <string name="hint_directory">"Direktori"</string>
+    <string name="hint_navigate_up">"ke atas"</string>
     <string name="hint_password">"Password"</string>
-    <string name="hint_atm_name">"ATM name"</string>
-    <string name="hint_bank_name">"Bank name"</string>
-    <string name="hint_attachments">"Attachments"</string>
-    <string name="hint_operation_in_progress">"In progress…"</string>
-    <string name="hint_search_something">"Search something"</string>
-    <string name="hint_exchange_rate">"Exchange rate"</string>
-    <string name="hint_recurrence_finished">"Ended"</string>
-    <string name="hint_new_folder">"New folder"</string>
-    <string name="hint_import_format">"Import format"</string>
-    <string name="hint_export_format">"Export format"</string>
-    <string name="hint_import_file">"File to import"</string>
-    <string name="hint_export_folder">"Export folder"</string>
-    <string name="hint_export_optional_columns">"Optional columns"</string>
-    <string name="hint_export_unique_wallet">"Join transactions from different wallets"</string>
+    <string name="hint_atm_name">"Nama atm"</string>
+    <string name="hint_bank_name">"Nama bank"</string>
+    <string name="hint_attachments">"Lampiran"</string>
+    <string name="hint_operation_in_progress">"sedang diproses…"</string>
+    <string name="hint_search_something">"Cari Sesuatu"</string>
+    <string name="hint_exchange_rate">"Nilai tukar"</string>
+    <string name="hint_recurrence_finished">"Berakhir"</string>
+    <string name="hint_new_folder">"Folder baru"</string>
+    <string name="hint_import_format">"Impor format"</string>
+    <string name="hint_export_format">"Ekspor format"</string>
+    <string name="hint_import_file">"Berkas yang akan diimpor"</string>
+    <string name="hint_export_folder">"Folder ekspor"</string>
+    <string name="hint_export_optional_columns">"Kolom opsional"</string>
+    <string name="hint_export_unique_wallet">"Gabungkan dari dompet lainGabungkan dari dompet lain"</string>
     <string name="hint_data_format_csv" translatable="false">"CSV"</string>
     <string name="hint_data_format_xls" translatable="false">"XLS"</string>
     <string name="hint_data_format_pdf" translatable="false">"PDF"</string>
-    <string name="hint_iso_code">"ISO code"</string>
-    <string name="hint_symbol">"Symbol"</string>
-    <string name="hint_decimals">"Number of decimals"</string>
+    <string name="hint_iso_code">"Kode ISO"</string>
+    <string name="hint_symbol">"Simbol"</string>
+    <string name="hint_decimals">"Jumlah desimal"</string>
 
-    <string name="hint_show_currency_symbol">"Show currency symbol"</string>
-    <string name="hint_group_digits">"Group digits"</string>
-    <string name="hint_round_decimals">"Round decimals"</string>
-    <string name="hint_show_always_plus_minus">"Always show +/- symbols"</string>
-    <string name="hint_auto_backup_enabled">"Service enabled"</string>
-    <string name="hint_auto_backup_wifi_only">"Only on WiFi network"</string>
-    <string name="hint_auto_backup_only_if_data_changed">"Only if data is changed"</string>
-    <string name="hint_auto_backup_every_n_hours">"Every %d hours"</string>
+    <string name="hint_show_currency_symbol">"Tampilkan simbol mata uang"</string>
+    <string name="hint_group_digits">"Mengelompokkan digit"</string>
+    <string name="hint_round_decimals">"bulatkan Desimal"</string>
+    <string name="hint_show_always_plus_minus">"selalu tampilkan +/-"</string>
+    <string name="hint_auto_backup_enabled">"layanan dihidupkan"</string>
+    <string name="hint_auto_backup_wifi_only">"hanya di jaringan Wifi"</string>
+    <string name="hint_auto_backup_only_if_data_changed">"Hanya jika jaringan diganti"</string>
+    <string name="hint_auto_backup_every_n_hours">"Setiap %d jam"</string>
     <string name="hint_auto_backup_folder">"Folder"</string>
     <string name="hint_auto_backup_root_folder">"Root"</string>
 
     <string name="total_wallet_name">"Total"</string>
 
-    <string name="title_activity_new_currency">"New currency"</string>
-    <string name="title_activity_edit_currency">"Edit currency"</string>
+    <string name="title_activity_new_currency">"Mata Uang Baru"</string>
+    <string name="title_activity_edit_currency">"Ubah mata uang"</string>
     <string name="title_activity_new_wallet">"New wallet"</string>
     <string name="title_activity_edit_wallet">"Edit wallet"</string>
     <string name="title_activity_new_transaction">"New transaction"</string>
